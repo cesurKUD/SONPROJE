@@ -11,3 +11,5 @@ NOAA olabilir
 nasa nın siteleri kazımaya açıkmış
 
 +düz url bulursan ekle(yok gibi duruyor resim koymanın bi yolu lazım)
+
+bot çağrıldığında sorulara cevap vercek
